@@ -1,1 +1,1 @@
-Hello git ! This is the third time
+Hello git ! This is the third time to use Github.
